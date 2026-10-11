@@ -1,0 +1,11 @@
+numero,asunto,estado,fecha_ingreso,fecha_vencimiento
+DEMO-001,Compra de insumos de oficina,pendiente,2026-09-01,2026-10-08
+DEMO-002,Mantenimiento de equipos,en proceso,2026-09-15,2026-10-13
+DEMO-003,Actualización de inventario,observado,2026-09-20,2026-10-11
+DEMO-004,Revisión de contrato ficticio,finalizado,2026-08-01,2026-09-01
+DEMO-005,Solicitud de capacitación,pendiente,2026-10-01,2026-10-18
+DEMO-006,Informe de actividades,en proceso,2026-10-05,2026-10-25
+DEMO-002,Registro duplicado intencional,pendiente,2026-09-15,2026-10-13
+DEMO-007,,pendiente,2026-10-01,2026-10-20
+DEMO-008,Fecha incorrecta intencional,pendiente,2026-10-01,2026-02-30
+DEMO-009,Estado incorrecto intencional,desconocido,2026-10-01,2026-10-20
